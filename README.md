@@ -8,7 +8,7 @@ Kvantum dark theme based on KvFlatTeal. With darker menus.
   
     #Install theme.
     cd KvFlat-Emerald
-    cp Solid ~/.config/Kvantum
-    cp Blur ~/.config/Kvantum
+    cp -r KvFlat-Emerald-Solid ~/.config/Kvantum/
+    cp -r KvFlat-Emerald-Blur ~/.config/Kvantum/
   
 Alternatively, you can install it using Kvantum GUI.
